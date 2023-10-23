@@ -1,3 +1,4 @@
+//Tested on FPC 3.2.2
 uses crt, DisplayThings, SnakeConstants;
 
 var
