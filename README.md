@@ -1,2 +1,2 @@
 # FPSnake
-Snake by me in FPC. Don't expect quality here.
+Snake by me in Free Pascal. Don't expect quality here.
