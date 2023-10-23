@@ -1,2 +1,2 @@
 # FPSnake
-Snake by @dreadlordhar in Free Pascal. Don't expect quality here.
+Snake in Free Pascal. Don't expect quality here.
